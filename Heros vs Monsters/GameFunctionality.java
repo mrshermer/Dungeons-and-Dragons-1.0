@@ -311,8 +311,4 @@ public class GameFunctionality{
      
      preGame.setGameArray(array);
  }
-//make move
-//start game
-//attack(figure out how to use the hero special aplities meaning when they can use it, slash )
-
 }
